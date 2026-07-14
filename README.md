@@ -4,7 +4,9 @@ These methods are the most commonly used, and you can explore the functions by i
 
 **Refer to**:<br>
 >> Wiemer, S., & Wyss, M. (2000). Minimum Magnitude of Completeness in Earthquake Catalogs: Examples from Alaska, the Western United States, and Japan. Bulletin of the Seismological Society of America, 90(4), 859–869. https://doi.org/10.1785/0119990114
+>>
 >> Woessner, J., & Wiemer, S. (2005). Assessing the Quality of Earthquake Catalogues: Estimating the Magnitude of Completeness and Its Uncertainty. Bulletin of the Seismological Society of America, 95, 684–698. https://doi.org/10.1785/0120040007
+>> 
 >> Zhuang, J., Ogata, Y., & Wang, T. (2017). Data completeness of the Kumamoto earthquake sequence in the JMA catalog and its influence on the estimation of the ETAS parameters. Earth, Planets and Space, 69(1), 36. https://doi.org/10.1186/s40623-017-0614-6
 <img width="2560" height="1332" alt="Fig1" src="https://github.com/user-attachments/assets/4b146fab-51a4-4fd7-86c4-d39a7f1163ef" />
 
